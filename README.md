@@ -1,1 +1,3 @@
-# WP_LoveGift
+# Love Gift
+
+This is a project
